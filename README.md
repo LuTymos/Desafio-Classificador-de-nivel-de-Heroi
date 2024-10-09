@@ -57,3 +57,6 @@ O Herói de nome Skye está no nível de Platina
 
 5. **Resultado Esperado:**
    O terminal exibirá as mensagens correspondentes ao nível de cada herói, conforme seu XP.
+
+ 
+ Nota: Este projeto foi desenvolvido com fins educacionais para praticar conceitos básicos de programação em JavaScript.
