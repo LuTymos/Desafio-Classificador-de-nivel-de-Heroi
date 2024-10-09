@@ -41,18 +41,18 @@ O Herói de nome Skye está no nível de Platina
 
 2. **Clone o Repositório:**
    ```
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone [https://github.comLuTymos/Desafio-Classificador-de-nivel-de-Heroi/](https://github.com/LuTymos/Desafio-Classificador-de-nivel-de-Heroi.git)
    ```
 
 3. **Navegue até o Diretório do Projeto:**
    ```
-   cd seu-repositorio
+   cd Desafio-Classificador-de-nivel-de-Heroi
    ```
 
 4. **Execute o Código:**
    No terminal, execute o seguinte comando:
    ```
-   node classificador.js
+   node desafio.js
    ```
 
 5. **Resultado Esperado:**
